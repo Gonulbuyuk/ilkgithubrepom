@@ -1,6 +1,6 @@
 # ilkgithubrepom
 git dersinde deneme repom
 
-###Merhaba repoma hosgeldiniz:)
+### Merhaba repoma hosgeldiniz:)
 
 
